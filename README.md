@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/84333971/233428087-4de1f0a9-4198-441d-a7c6-b26260bae52d.png" alt="logo" width="350" height="auto" />
-
 # Tinder Clone with REACT NATIVE!
 
 </div>
@@ -81,8 +79,6 @@ expo publish
 
 <!-- About the Project -->
  ## Demo & Showcasing:
-
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="320px"/>
 
 <!-- Screenshots -->
 
