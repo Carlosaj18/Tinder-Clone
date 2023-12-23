@@ -6,8 +6,6 @@
 
 ## :star2: About the Project
 
-![](https://img.shields.io/badge/Uber-white?style=for-the-badge&logo=Uber&logoColor=black)
-
 This application replicates Tinder's functionality, featuring a matching algorithm and live chat for matched users. Users sign in via Google, create profiles, and start swiping on a stack of cards displaying other users. Swiping right (or tapping the green heart) indicates interest; swiping left (or tapping the red cross) dismisses a profile. When two users match, a "It's a Match!" screen appears, enabling them to chat in the app's dedicated chat section. Users can access additional options from a drawer by swiping right or tapping their profile image, allowing them to return home, update their profile, explore the about section, or sign out.
 
 This project's backend relies on Firebase, utilizing Firestore Database to store profiles and Authentication for Google oAuth Sign-In.
